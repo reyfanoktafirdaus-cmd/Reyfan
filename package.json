@@ -1,0 +1,10 @@
+{
+  "name": "tugas-baru-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix app run dev",
+    "install": "npm --prefix app install",
+    "build": "npm --prefix app run build",
+    "preview": "npm --prefix app run preview"
+  }
+}
